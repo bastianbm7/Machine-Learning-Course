@@ -6,7 +6,7 @@
 
 🔧 **Technologies used:** Python, Scikit-learn, TensorFlow
 
-🤝 **Contributions:**I welcome any contributions or suggestions for improving my work. If you notice any issues or errors in my code, please don't hesitate to reach out to me. I'm always looking for ways to improve my skills and learn from others. If you have any feedback or ideas for improvement, feel free to fork this repository and submit a pull request with your changes.
+🤝 **Contributions:** I welcome any contributions or suggestions for improving my work. If you notice any issues or errors in my code, please don't hesitate to reach out to me. I'm always looking for ways to improve my skills and learn from others. If you have any feedback or ideas for improvement, feel free to fork this repository and submit a pull request with your changes.
 
 👋 Thank you for visiting my repository! I hope you found the information and resources here helpful.
 
